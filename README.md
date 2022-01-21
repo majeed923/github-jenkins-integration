@@ -12,3 +12,5 @@ Running software installed script
 check the difference
 
 Demo push
+
+Removing Git project and Build
